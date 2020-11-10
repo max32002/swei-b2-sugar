@@ -4,7 +4,7 @@
 
 ![字體預覽](https://github.com/max32002/swei-b2-sugar/raw/master/preview/welcome.png)
 
-和思源宋體一樣，支援7種的字重：
+「獅尾B2加糖宋體」設計上針對筆畫粗細支援7種字重，所以不論大標、小標、簡單的段落排版都能清晰辨識：
 ![字重比較](https://github.com/max32002/swei-b2-sugar/raw/master/preview/compare_style.png)
 
 ## 與思源宋體比較
@@ -152,6 +152,8 @@ https://max-everyday.com/2020/04/swei-gothic/
 https://max-everyday.com/2020/03/swei-sans/
 
 獅尾宋體家族：
+* 獅尾B2加糖宋體 Swei B2 Sugar
+https://max-everyday.com/2020/11/swei-b2-sugar/
 * 獅尾加糖宋體 Swei Sugar
 https://max-everyday.com/2020/11/swei-sugar/
 * 獅尾B2宋朝 Swei B2 Serif
